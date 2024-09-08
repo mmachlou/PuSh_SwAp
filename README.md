@@ -18,8 +18,7 @@ Welcome to the **Push_Swap** project, part of the 42 School curriculum. This pro
 6. [Examples](#examples)
 7. [Project Structure](#project-structure)
 8. [Evaluation](#evaluation)
-9. [License](#license)
-10. [Contact](#contact)
+9. [Contact](#contact)
 
 ---
 
