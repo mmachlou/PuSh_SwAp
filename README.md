@@ -18,7 +18,6 @@ Welcome to the **Push_Swap** project, part of the 42 School curriculum. This pro
 6. [Examples](#examples)
 7. [Project Structure](#project-structure)
 8. [Evaluation](#evaluation)
-9. [Contact](#contact)
 
 ---
 
@@ -152,13 +151,3 @@ The **Push_Swap** project is evaluated based on:
 - **Efficiency**: The number of operations required to achieve sorting.
 - **Code Quality**: Adherence to 42 School's coding standards.
 - **Performance**: The algorithm's performance when tested against various input sizes.
-
----
-
-## Contact
-
-If you have any questions, feel free to reach out:
-
-- GitHub: [mmachlou](https://github.com/mmachlou)
-
----
