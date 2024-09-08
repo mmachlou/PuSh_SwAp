@@ -1,8 +1,4 @@
-Here's an enhanced and more professional version of the README for your Push_Swap project:
-
----
-
-# Push_Swap - 42 School Project
+# Push_Swap - Project
 
 Welcome to the **Push_Swap** project, part of the 42 School curriculum. This project is a highly challenging algorithmic problem designed to optimize sorting using a minimal number of stack operations. The goal is to sort a list of integers using two stacks and a set of predefined operations.
 
